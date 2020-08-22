@@ -26,7 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dee1454e-ea70-4473-910e-0d605d9b90c0" name="Default Changelist" comment="huydev">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -122,6 +122,14 @@
       <screen x="0" y="27" width="1920" height="1003" />
     </state>
     <state x="100" y="127" width="1720" height="803" key="DiffContextDialog/0.27.1920.1003@0.27.1920.1003" timestamp="1598083155127" />
+    <state x="182" y="116" width="1536" height="839" key="MergeDialog" timestamp="1598083978911">
+      <screen x="0" y="27" width="1920" height="1003" />
+    </state>
+    <state x="182" y="116" width="1536" height="839" key="MergeDialog/0.27.1920.1003@0.27.1920.1003" timestamp="1598083978911" />
+    <state x="591" y="289" width="728" height="485" key="MultipleFileMergeDialog" timestamp="1598083983182">
+      <screen x="0" y="27" width="1920" height="1003" />
+    </state>
+    <state x="591" y="289" width="728" height="485" key="MultipleFileMergeDialog/0.27.1920.1003@0.27.1920.1003" timestamp="1598083983182" />
     <state x="555" y="264" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598083154687">
       <screen x="0" y="27" width="1920" height="1003" />
     </state>
